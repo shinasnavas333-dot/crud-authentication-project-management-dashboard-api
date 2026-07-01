@@ -1,0 +1,1 @@
+A FastAPI-based Project Management Dashboard API with JWT Authentication, Role-Based Access Control (RBAC), User & Project CRUD operations, Dashboard Statistics, Search, Filtering, Pagination, SQLAlchemy ORM, and SQLite.
